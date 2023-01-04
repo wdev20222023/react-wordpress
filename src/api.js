@@ -1,1 +1,1 @@
-export const API_URL = 'http://13.38.23.3/wp-json/wp/v2/';
+export const API_URL = 'https://portfolio-c3f86d.ingress-erytho.ewp.live//wp-json/wp/v2/';
